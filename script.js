@@ -7,7 +7,7 @@
         day = hour * 24;
   //end
 
-  birthday = "01/07/2023 19:00:00";
+  birthday = "01/06/2024 19:00:00";
   const countDown = new Date(birthday).getTime(),
       x = setInterval(function() {    
 
